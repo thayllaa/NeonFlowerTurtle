@@ -2,7 +2,7 @@
 Arte gerada por código: uma flor neon desenhada usando a biblioteca Turtle do Python.
 
 ### 🖼️ Screenshot
-![Imagem Neon Flower Turtle](https://github.com/thayllaa/NeonFlowerTurtle/blob/main/screenshot_neon-flower.png)
+<img src="https://github.com/thayllaa/NeonFlowerTurtle/blob/main/screenshot_neon-flower.png" width="47%" alt="Imagem Neon Flower Turtle">
 
 ### 🛠️ Ferramentas
 * Python Turtle:
